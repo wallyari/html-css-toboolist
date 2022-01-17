@@ -42,3 +42,40 @@ li{
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
 }
+.add-button{
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+/* BLUE-BUTTON */
+#blue-button{
+    border:solid#ccd1d5;
+    color:#ccd1d5;
+}
+.down-triangle{
+    font-size: 15px;
+}
+.circle {
+
+    border-radius: 50%;
+    font-size: 8px;
+    padding: 3px;
+    width: 3px;
+}
+.check{
+    border: 1px solid #9ad7c8;
+    color: #9ad7c8;
+}
+.uncheck{
+    border: 1px solid #eb5a53;
+    color:#eb5a53;
+}
+.button-list{
+    border-radius: 30px;
+    padding: 4px;
+    font-size: 10px;
+    color: white;
+}
+.list{
+    margin-top: 30px;
+}
