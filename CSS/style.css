@@ -13,12 +13,13 @@ body{
     background-color: white;
 }
 .logo-boolean{
-    padding-top: 10px;
+    padding-top: ;
     padding-left: 30px;
     height: 50px;
 
 }
 .text-logo{
+    padding-bottom: 30px;
     font-size: 40px;
 
 }
