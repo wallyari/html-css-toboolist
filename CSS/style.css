@@ -79,3 +79,28 @@ li{
 .list{
     margin-top: 30px;
 }
+/* BUTTON COLORS */
+.blu{
+    background-color: #45abea;
+    border: solid #45abea;
+}
+.violet{
+    background-color: #9c72e4;
+    border:solid #9c72e4;
+}
+.turquoise{
+    background-color: #64c0a9;
+    border:solid #64c0a9;
+}
+.orange{
+    background-color:#f29e33 ;
+    border: solid #f29e33;
+}
+.pink{
+    background-color: #d863a1;
+    border-color: solid #d863a1;
+}
+.green{
+    background-color: #b0c926;
+    border: solid #b0c926;
+}
